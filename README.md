@@ -1,7 +1,7 @@
 ### Hi there 👋
-## @Devloper @Unity3D @Angular @NodeJs @C# .NET 
+## @Devloper @Unity3D @Angular @NodeJs @Serverless @AWS @C# .NET 
 ## I'm Currently learning Unity3D AR design
-
+## Email me at: jogenderydv@gmail.com
 <!--
 **jogender88/jogender88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
